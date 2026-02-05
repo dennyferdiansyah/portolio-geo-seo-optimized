@@ -1,0 +1,122 @@
+# Denny Ferdiansyah - Senior Software Engineer Portfolio
+
+> This is the official portfolio website of Denny Ferdiansyah, a Senior Software Engineer with over 10 years of experience in Full-Stack Development.
+
+## About Denny Ferdiansyah
+
+Denny Ferdiansyah is a Senior Software Engineer based in Bandung, Indonesia, specializing in:
+- Full-Stack Web Development (TypeScript, Golang, PHP, Laravel, React, Next.js)
+- E-Commerce Solutions (Magento 2, Shopify, WordPress)
+- Mobile App Development (Flutter)
+- Real-time Systems (WebSockets, Redis Pub/Sub)
+- System Architecture and Performance Optimization
+
+## Contact Information
+
+- Email: dferdiansyah2908@gmail.com
+- Phone: +62 812 6773 966
+- LinkedIn: https://linkedin.com/in/dennyferdiansyah
+- GitHub: https://github.com/dennyferdiansyah
+- Website: https://www.dennyferdiansyah.my.id
+- Location: Bandung, West Java, Indonesia
+- Availability: Remote work worldwide
+
+## Professional Experience
+
+### Current Position
+- **Full-Stack Engineer at BlueRock** (March 2025 - Present)
+  - Location: Australia (Remote)
+  - Technologies: Laravel, WordPress, Flutter, NestJS, Shopify
+
+### Previous Positions
+- **Senior Software Engineer at ElectGo (Lim Kim Hai Group)** (September 2023 - March 2025)
+  - Location: Singapore (Remote)
+  - Achieved 66.7% revenue growth and reduced development costs from $300K to $20K/month
+  - Technologies: Magento 2, ReactJS, NestJS, Epicor ERP
+
+- **Senior Software Engineer at Halosis** (September 2022 - October 2023)
+  - Location: Jakarta, Indonesia (Remote)
+  - Built omni-channel chat system with 40% faster response time
+  - Technologies: Laravel, VueJS 3, WebSockets, Firebase
+
+- **Lead Software Engineer at Emkalab** (August 2019 - September 2022)
+  - Location: Bandung, Indonesia
+  - Led team of 5 engineers, delivered 10+ client projects
+  - Technologies: Golang, ReactJS, Flutter, Laravel
+
+## Technical Skills
+
+### Backend Development
+Golang, PHP, Laravel, Node.js, NestJS, TypeScript, REST APIs, GraphQL, Microservices, WebSockets
+
+### Frontend Development
+React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, Redux, Zustand, Framer Motion
+
+### E-Commerce Platforms
+Magento 2, WordPress, Shopify, WooCommerce, Payment Gateway Integration, ERP Integration
+
+### Mobile Development
+Flutter (Android, iOS, Web), React Native, GetX State Management
+
+### Databases & Caching
+MySQL, PostgreSQL, Redis, Elasticsearch, MongoDB
+
+### DevOps & Tools
+Docker, CI/CD (GitHub Actions, GitLab CI), AWS, GCP, New Relic
+
+## Key Achievements
+
+1. **66.7% Revenue Growth** - Led Magento architecture optimizations for ElectGo e-commerce platform
+2. **$280K Monthly Cost Savings** - Reduced development costs from $300K to $20K/month
+3. **30+ Projects Delivered** - Successfully completed projects across e-commerce, real-time systems, and mobile apps
+4. **99% Client Satisfaction** - Maintained high satisfaction rate across all delivered projects
+5. **40% Faster Response Time** - Achieved in omni-channel chat system implementation
+6. **Top Muslim Clothes Brand Award** - Helped client achieve recognition on Tokopedia marketplace
+
+## Notable Projects
+
+### E-Commerce
+- ElectGo E-Commerce Platform (Magento 2, NestJS) - 66.7% revenue growth
+- 3Second Multi-Brand E-Commerce (Magento 2) - 6 brand stores
+- Vamosh Group E-Commerce - 300% sales increase
+
+### Real-time Systems
+- Flight Information Display System (Golang, Redis Pub/Sub) - Sub-100ms latency
+- Omni-Channel Chat System (Laravel, WebSockets) - 40% faster response
+- Toyota Service Booking App (Flutter, WebSockets) - Cross-platform
+
+### Mobile Applications
+- Ngitung Financial App (Flutter, NestJS) - Personal finance management
+- ATM Machine Repair Service (Flutter, Golang) - Service tracking system
+
+### Web Applications
+- Wedding Invitation Platform (Next.js, WhatsApp API)
+- HSBC & Danamon Financial Calculators (Laravel)
+- Zi.Care Healthcare System (PHP, BPJS Integration)
+
+## Services Offered
+
+1. Full-Stack Web Development
+2. E-Commerce Development (Magento, Shopify, WordPress)
+3. Mobile App Development (Flutter)
+4. API Development and Integration
+5. System Architecture Consulting
+6. Performance Optimization
+7. Payment Gateway Integration
+8. ERP System Integration
+
+## Working Preferences
+
+- Available for freelance projects, consulting, and full-time remote positions
+- Experienced working with international teams across different time zones
+- Proficient in English and Indonesian
+- Strong communication skills for remote collaboration
+
+## Education
+
+- Diploma in Information Management
+- Piksi Ganesha Polytechnic, Bandung, Indonesia
+
+---
+
+For more information, visit: https://www.dennyferdiansyah.my.id
